@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae1339)](https://github.com/rojae1339/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojae1339)](https://github.com/rojae1339/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojae1339&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
 

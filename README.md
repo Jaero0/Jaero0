@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae1339&hide=shaderlab,HLSL,Roff)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojae1339)](https://github.com/rojae1339/github-readme-stats)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Techy Toasty;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Techy+Toasty+Dev)](https://git.io/typing-svg)
 
 
 

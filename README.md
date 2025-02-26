@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=900&lines=Techy+Toasty+Dev)](https://git.io/typing-svg)
 
+Tech Skills
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>

@@ -53,8 +53,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojae1339&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />

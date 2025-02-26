@@ -12,7 +12,7 @@
 
 <br>
 
-## Tech Skills
+## 🎫 Tech Skills
 ### Language
 <!--JS-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 
-## Github Status
+## 🦸‍♂️ Github Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojae1339&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />

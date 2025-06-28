@@ -7,23 +7,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=900&lines=Dev+who+likes+Bake＆Dev)](https://git.io/typing-svg)
 
 ## 🧙‍♂️ About me
-#### 💃 I'm Frontend Developer from South Korea, who is living in Spain.
-#### 👨‍🎓 Actual Univ. student, major in Computer Science (KNOU).
+### 💃 I'm Unity Game Developer. Steadily study, learn new skills, and find reasons for use those skills.
+### ✍ Interest on Sofrware development, architecture, game design.
+### 👨‍🎓 BCompSc undergraduate. (2027 graduation)
 
 <br>
 
 ## 🎫 Tech Skills
 ### Language
 <!--JS-->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<!--TS-->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<!--HTML-->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<!--CSS-->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<!--java-->
-<img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg"/>
 
 ### Framework
 <!--react-->

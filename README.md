@@ -17,7 +17,7 @@
 <!--JS-->
 <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" width="10%"/>
 <!--unity-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="20%" padding-bottom="10px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="20%" border="solid" padding-bottom="10px"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>

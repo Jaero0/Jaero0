@@ -20,7 +20,7 @@
 
 ### Framework
 <!--unity-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="10%"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>

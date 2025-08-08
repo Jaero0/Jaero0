@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=900&lines=Dev+who+likes+Bake＆Dev)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=rojae1339&style=flat-square)
+
 ## 🧙‍♂️ About me
 #### 💃 I'm Unity Game Developer. Steadily study, learn new skills, and considerate before use skills.
 #### ✍ Interest on Sofrware development, architecture, game design.

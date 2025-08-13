@@ -40,10 +40,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojae1339&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=accforcsharp)](https://solved.ac/accforcsharp/)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/accforcsharp/)
 
 </div>

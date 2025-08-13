@@ -44,4 +44,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/accforcsharp/)
+
 </div>

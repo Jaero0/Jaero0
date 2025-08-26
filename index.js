@@ -75,6 +75,11 @@ const parser = new Parser({
     }
 
     text += `</ul>`;
+
+    
+text += `<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
+
+</div>`
     
     // README.md 파일 생성
     writeFileSync('README.md', text, 'utf8', (e) => {
@@ -83,7 +88,3 @@ const parser = new Parser({
     console.log('업데이트 완료');
 })();
 
-
-text += `<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
-
-</div>`

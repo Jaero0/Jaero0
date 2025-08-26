@@ -5,7 +5,10 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Hi!
+let text = `
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+</div>
 
 <div>
 
@@ -48,7 +51,6 @@ let text = `# Hi!
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojae1339&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-
 ## Latest Blog Posts
 
 `;
@@ -80,3 +82,8 @@ const parser = new Parser({
     })
     console.log('업데이트 완료');
 })();
+
+
+text += `<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
+
+</div>`

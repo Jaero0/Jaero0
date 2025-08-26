@@ -1,6 +1,11 @@
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-</div>
+import { writeFileSync } from 'node:fs';
+import Parser from "rss-parser";
+
+/**
+ * README.MD에 작성될 페이지 텍스트
+ * @type {string}
+ */
+let text = `# Hi!
 
 <div>
 
@@ -44,8 +49,37 @@
 </a>
 
 
+## Latest Blog Posts
 
+`;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
+// rss-parser 생성
+const parser = new Parser({
+    headers: {
+        Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
+    }});
 
-</div>
+(async () => {
+
+    // 피드 목록
+    const feed = await parser.parseURL('https://devpad.tistory.com/rss'); // 본인의 블로그 주소
+    
+    text += `<ul>`;
+    
+    // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
+    for (let i = 0; i < 10; i++) {
+        const {title, link} = feed.items[i];
+        console.log(`${i + 1}번째 게시물`);
+        console.log(`추가될 제목: ${title}`);
+        console.log(`추가될 링크: ${link}`);
+        text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+    }
+
+    text += `</ul>`;
+    
+    // README.md 파일 생성
+    writeFileSync('README.md', text, 'utf8', (e) => {
+        console.log(e);
+    })
+    console.log('업데이트 완료');
+})();

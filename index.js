@@ -14,22 +14,21 @@ let text = `
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=900&lines=Dev+who+likes+Bake＆Dev)](https://git.io/typing-svg)
 
-## 🧙‍♂️ About me
-#### 💃 I'm Unity Game Developer. Steadily study, learn new skills, and considerate before use skills.
-#### ✍ Interest on Sofrware development, architecture, game design.
-#### 👨‍🎓 BCompSc undergraduate. (2027 graduation)
-
+## 🧙About me
+#### I'm Unreal Game Developer. Steadily study, learn new skills, and considerate before use skills.
+#### Interest on Sofrware development, architecture, game design.
+#### BCompSc undergraduate. (2027 graduation)
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=accforcsharp)](https://solved.ac/accforcsharp/)
 
 ## 🎫 Tech Skills
 ### Main Tech Skills
-<!--JS-->
-<img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" width="10%"/>
+<!--cpp-->
+<img src="https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <pr>
-<!--unity-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="25%" />
+<!--unreal-->
+<img src="https://img.shields.io/badge/unrealengine-#0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>

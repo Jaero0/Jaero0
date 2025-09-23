@@ -18,17 +18,18 @@
 ## 🎫 Tech Skills
 ### Main Tech Skills
 <!--cpp-->
-<img src="https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
 <pr>
 <!--unreal-->
-<img src="https://img.shields.io/badge/unrealengine-#0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=plastic&logo=unrealengine&logoColor=white">
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-222222?style=plastic&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
 
 ## 🦸‍♂️ Github Status
 

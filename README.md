@@ -19,10 +19,10 @@
 ### Main Tech Skills
 <!--cpp-->
 
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Cpp-00599C?style=plastic&logo=cplusplus&logoColor=white&logoSize=amg">
 <pr>
 <!--unreal-->
-<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=plastic&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=plastic&logo=unrealengine&logoColor=white&logoSize=amd">
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>

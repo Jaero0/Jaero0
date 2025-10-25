@@ -69,10 +69,23 @@ const parser = new Parser({
     text += `<ul>`;
     
     // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-    for (let i = 0; i < 10; i++) {
-        const {title, link} = feed.items[i];
-        text += `<li><a href="${link}" target="_blank">${title}</a></li>`;
+    if(feed.items.length > 10)
+    {
+        for (let i = 0; i < 10; i++) 
+        {
+            const {title, link} = feed.items[i];
+            text += `<li><a href="${link}" target="_blank">${title}</a></li>`;
+        }
     }
+    else
+    {
+        for (let i = 0; i < feed.items.length; i++) 
+        {
+            const {title, link} = feed.items[i];
+            text += `<li><a href="${link}" target="_blank">${title}</a></li>`;
+        }
+    }
+    
 
     text += `</ul>`;
 

@@ -14,7 +14,7 @@ let text = `
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=900&lines=Dev+who+likes+Bake＆Dev)](https://git.io/typing-svg)
 
-## 🧙About me
+## 🧙About  me
 #### I'm Unreal Game Developer. Steadily study, learn new skills, and considerate before use skills.
 #### Interest on Sofrware development, architecture, game design.
 #### BCompSc undergraduate. (2027 graduation)

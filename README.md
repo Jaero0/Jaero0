@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=C1A023&background=8E7D1200&center=true&vCenter=true&multiline=true&random=true&width=900&lines=Dev+who+likes+Bake＆Dev)](https://git.io/typing-svg)
 
-## 🧙About me
+## 🧙About  me
 #### I'm Unreal Game Developer. Steadily study, learn new skills, and considerate before use skills.
 #### Interest on Sofrware development, architecture, game design.
 #### BCompSc undergraduate. (2027 graduation)
@@ -46,6 +46,6 @@
 
 ## Latest Blog Posts
 
-<ul><li><a href="https://velog.io/@wjdwogh1224/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A3%BC%EC%86%8C%EB%8F%84-%EC%98%AE%EA%B2%BC%EA%B3%A0" target="_blank">깃허브 주소도 옮겼고... </a></li><li><a href="https://velog.io/@wjdwogh1224/HTTP-%ED%97%A4%EB%8D%94-%EC%88%98%EC%A0%95%EC%A4%91" target="_blank">HTTP - 헤더</a></li><li><a href="https://velog.io/@wjdwogh1224/HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C" target="_blank">HTTP - 상태코드</a></li><li><a href="https://velog.io/@wjdwogh1224/4.5%EA%B0%9C%EC%9B%94%EA%B0%84%EC%9D%98-%EB%82%B4%EB%B0%B0%EC%BA%A0%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%95%98%EB%A9%B0" target="_blank">4.5개월간의 내배캠을 마무리하며..</a></li><li><a href="https://velog.io/@wjdwogh1224/HTTP-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C" target="_blank">HTTP - HTTP 메서드</a></li><li><a href="https://velog.io/@wjdwogh1224/HTTP-HTTP-%EC%9E%91%EC%84%B1%EC%A4%91" target="_blank">HTTP - HTTP</a></li><li><a href="https://velog.io/@wjdwogh1224/HTTP-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80" target="_blank">HTTP - 웹 브라우저</a></li><li><a href="https://velog.io/@wjdwogh1224/HTTP-%EC%9E%91%EC%84%B1%EC%A4%91" target="_blank">HTTP - 네트워크</a></li><li><a href="https://velog.io/@wjdwogh1224/Java-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%99%B8%EA%B3%84%EC%96%B4-%EC%82%AC%EC%A0%84" target="_blank">[Java] 프로그래머스 외계어 사전</a></li><li><a href="https://velog.io/@wjdwogh1224/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-DB-%EC%A0%91%EA%B7%BC-%EC%9E%91%EC%84%B1%EC%A4%91" target="_blank">스프링부트 입문 (4) - DB 접근 </a></li></ul><img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
+<ul><li><a href="https://velog.io/@hukpak/%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8" target="_blank">게임기획 시작하기 - 가이드라인</a></li></ul><img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
 
 </div>

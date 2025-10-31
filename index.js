@@ -82,7 +82,7 @@ const parser = new Parser({
     text += `</ul>`;
 
     
-text += `<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D095&height=130&section=footer" />
+text += `
 
 </div>`
     

@@ -1,7 +1,7 @@
 
 ## About  me
-#### I'm Unreal Game Developer. Steadily study, learn new skills, and considerate before use skills.
-#### Interest on Sofrware development, architecture, game design.
+#### I'm Unity Game Developer.
+#### Interest on Software development, architecture, game design.
 #### BCompSc undergraduate. (2027 graduation)
 <br>
 
@@ -17,11 +17,7 @@
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=plastic&logo=unrealengine&logoColor=white&logoSize=amd">
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-222222?style=plastic&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-222222?style=plastic&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
 
 ## Github Status
 

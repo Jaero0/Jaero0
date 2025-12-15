@@ -7,9 +7,10 @@ import Parser from "rss-parser";
  */
 let text = `
 ## About  me
-#### I'm Unity Game Developer.
-#### Interest on Software development, architecture, game design and philosophy
-#### BCompSc undergraduate. (2027 graduation)
+#### Unity Game Developer.
+#### Interest on Architecture, game design and philosophy
+#### Basically reading, playing, thinking and writing
+#### BCompSc undergraduate
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=accforcsharp)](https://solved.ac/accforcsharp/)
@@ -18,23 +19,15 @@ let text = `
 ### Main Tech Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,git,github,unity)](https://skillicons.dev)
-// <!--cpp-->
 
-// <img src="https://img.shields.io/badge/Cpp-00599C?style=plastic&logo=cplusplus&logoColor=white&logoSize=amg">
-// <pr>
-// <!--unreal-->
-// <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=white&logoSize=amd">
-
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-222222?style=plastic&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
 
 ## Github Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaero0&hide=ShaderLab&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaero0&hide=ShaderLab&layout=pie&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaero0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaero0&show_icons=true&theme=merko&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">

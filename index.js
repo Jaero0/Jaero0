@@ -39,7 +39,7 @@ const parser = new Parser({
     const feed = await parser.parseURL('https://v2.velog.io/rss/vfx_master'); // 본인의 블로그 주소
     
     text += `<ul>`;
-    text += `<li><a href="https://gamewindowcoder.tistory.com/entry/%EB%B2%A8%EB%A1%9C%EA%B7%B8%EB%A1%9C-%EC%9D%B4%EB%8F%99" target="_blank">벨로그로 이동~~</a></li>`;
+
     
     // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
     if(feed.items.length > 10)
@@ -60,6 +60,7 @@ const parser = new Parser({
     }
     
 
+    text += `<li><a href="https://gamewindowcoder.tistory.com/entry/%EB%B2%A8%EB%A1%9C%EA%B7%B8%EB%A1%9C-%EC%9D%B4%EB%8F%99" target="_blank">벨로그로 이동~~</a></li>`;
     text += `</ul>`;
 
     

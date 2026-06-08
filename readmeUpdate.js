@@ -3,6 +3,8 @@ import Parser from "rss-parser";
 
 // ----- [1] 고정 영역: 자기소개, 기술 스택 등으로 커스텀 -----
 const staticContent = `
+# Graphics Blog
+
 `;
 
 // ----- [2] 자동 갱신 영역: 블로그 RSS 읽어서 최신 글 목록 추가 -----
@@ -23,6 +25,7 @@ const parser = new Parser({
     for (let i = 0; i < latestPostsCount && i < feed.items.length; i++) {
       const { title, link } = feed.items[i];
       console.log(`${i + 1}. ${title} (${link})`);
+      blogSection += `${i+1}. `;
       blogSection += `<a href="${link}">${title}</a></br>\n`;
     }
   } catch (error) {

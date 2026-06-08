@@ -3,7 +3,7 @@ name: Readme Update
 
 # Controls when the workflow will run
 on:
-  workflow_dispatch:		// 🅰️ 깃허브 Actions 탭에서 수동 실행 버튼이 생김
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
 permissions:

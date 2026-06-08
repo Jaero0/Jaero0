@@ -1,0 +1,24 @@
+{
+  "name": "jaero0",
+  "version": "1.0.0",
+  "description": "<!--\r **Jaero0/Jaero0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "readmeUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaero0/Jaero0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaero0/Jaero0/issues"
+  },
+  "homepage": "https://github.com/Jaero0/Jaero0#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -28,7 +28,11 @@ const parser = new Parser({
       blogSection += `${i+1}. `;
 
       const formattedDate = pubDate
-          ? new Date(pubDate).toISOString().slice(0, 10) // "YYYY-MM-DD" 형식으로 변환
+          ?  new Date(pubDate).toLocaleDateString("en-US", {
+             day: "2-digit",
+             month: "short",
+             year: "numeric",
+    }) // "YYYY-MM-DD" 형식으로 변환
           : "날짜 정보 없음";
       blogSection += `, <a href="${link}">${title}</a> (${formattedDate})</br>\n`;
     }

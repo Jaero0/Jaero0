@@ -23,10 +23,16 @@ const parser = new Parser({
     const latestPostsCount = 10; // 최신 글을 몇 개 가져올지
 
     for (let i = 0; i < latestPostsCount && i < feed.items.length; i++) {
-      const { title, link } = feed.items[i];
+      const { title, link, pubDate } = feed.items[i];
       console.log(`${i + 1}. ${title} (${link})`);
       blogSection += `${i+1}. `;
       blogSection += `<a href="${link}">${title}</a></br>\n`;
+
+      const formattedDate = pubDate
+          ? new Date(pubDate).toISOString().slice(0, 10) // "YYYY-MM-DD" 형식으로 변환
+          : "날짜 정보 없음";
+
+      blogSection += `, <a href="${link}">${title}</a> (${formattedDate})</br>\n`;
     }
   } catch (error) {
     console.error("RSS 파싱 중 오류 발생:", error);

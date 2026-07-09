@@ -26,12 +26,10 @@ const parser = new Parser({
       const { title, link, pubDate } = feed.items[i];
       console.log(`${i + 1}. ${title} (${link})`);
       blogSection += `${i+1}. `;
-      blogSection += `<a href="${link}">${title}</a></br>\n`;
 
       const formattedDate = pubDate
           ? new Date(pubDate).toISOString().slice(0, 10) // "YYYY-MM-DD" 형식으로 변환
           : "날짜 정보 없음";
-
       blogSection += `, <a href="${link}">${title}</a> (${formattedDate})</br>\n`;
     }
   } catch (error) {

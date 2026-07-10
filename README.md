@@ -1,7 +1,7 @@
 
 # Graphics Blog
 <table>
-<tr><td>1.</td><td><a href="https://velog.io/@vfx_master/Advanced-OpenGL12-Shadow-Mapping">Advanced OpenGL(12) - Shadow Mapping</a></td><td>09-Jul, 2026</td></tr>
+<tr><td>1.</td><td><a href="https://velog.io/@vfx_master/Advanced-OpenGL12-Shadow-Mapping">Advanced OpenGL(12) - Directional Shadow Mapping</a></td><td>09-Jul, 2026</td></tr>
 <tr><td>2.</td><td><a href="https://velog.io/@vfx_master/Advanced-OpenGL11-Gamma-Correction">Advanced OpenGL(11) - Gamma Correction</a></td><td>08-Jul, 2026</td></tr>
 <tr><td>3.</td><td><a href="https://velog.io/@vfx_master/Advanced-OpenGL10-Anti-Aliasing">Advanced OpenGL(10) - Anti-Aliasing</a></td><td>08-Jul, 2026</td></tr>
 <tr><td>4.</td><td><a href="https://velog.io/@vfx_master/Advanced-OpenGL9-Instancing">Advanced OpenGL(9) - Instancing</a></td><td>07-Jul, 2026</td></tr>

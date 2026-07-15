@@ -16,7 +16,7 @@ const monthNames = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct",
 (async () => {
   let blogSection = "<table>\n";
   try {
-    const feed = await parser.parseURL("https://v2.velog.io/rss/vfx_master");
+    const feed = await parser.parseURL("https://gamewindowcoder.tistory.com/rss");
     const latestPostsCount = 10;
     for (let i = 0; i < latestPostsCount && i < feed.items.length; i++) {
       const { title, link, pubDate } = feed.items[i];
